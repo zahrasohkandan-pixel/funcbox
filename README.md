@@ -1,4 +1,4 @@
-# FunCBox
+.# FunCBox
 [![TON](https://img.shields.io/badge/based%20on-TON-blue)](https://ton.org/) [![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)
 
 Collection of FunC snippets and utilities.
